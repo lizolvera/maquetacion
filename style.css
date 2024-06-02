@@ -1,0 +1,36 @@
+header{
+    background-color: burlywood;
+    margin: auto;
+    margin-bottom: 50px;
+}
+nav{
+    background-color: aquamarine;
+    color: black;
+    width: 250px;
+    font-size: medium;
+    height: 250px;
+    position:absolute;
+    margin-bottom: 20px;
+}
+article{
+    background-color: cadetblue;
+}
+section{
+    background-color: darkgray;
+    margin-left: 300px;
+}
+aside{
+    background-color: brown;
+    margin: 40px;
+    margin-left: 300px;
+}
+footer{
+    background-color: rgb(226, 25, 149);
+    color: black;
+    margin-top: 20px;
+    height: 80px;
+}
+.A1{
+    background-color: darkgray;
+    margin-left: 300px;
+}
